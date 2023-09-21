@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BmiCalculator</string>
+    <string name ="weight_edtxt">Enter Your Weight</string>
+    <string name ="feet_edtxt">Enter Your feet</string>
+    <string name ="inch_edtxt">Enter Your Inch</string>
+    <string name ="btn_txt">Click Here</string>
+    <string name ="result_txt">Result</string>
+    <string name ="underweight_txt">Your weight is underweight</string>
+    <string name ="normal_txt">Your weight is normal</string>
+    <string name ="overweight_txt">Your weight is overweight</string>
+    <string name ="obese_txt">Your weight is obese</string>
+
+</resources>
